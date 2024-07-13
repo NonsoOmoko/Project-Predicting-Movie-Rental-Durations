@@ -25,6 +25,7 @@ The dataset `rental_info.csv` contains the following features:
 - `rental_info.csv`: The dataset containing DVD rental information.
 - `dvd_rental_prediction.ipynb`: Jupyter notebook containing the code for data exploration, preparation, and model building.
 - `README.md`: This file.
+- `dvd_image.jpg`: Image of dvd player.
 
 ## Steps and Methodology
 
