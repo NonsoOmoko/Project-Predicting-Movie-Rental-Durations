@@ -58,3 +58,4 @@ The dataset `rental_info.csv` contains the following features:
 1. Clone the repository:
    ```sh
    git clone https://github.com/NonsoOmoko/Project-Predicting-Movie-Rental-Durations.git
+   cd Project-Predicting-Movie-Rental-Durations
